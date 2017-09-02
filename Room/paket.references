@@ -1,2 +1,5 @@
 FSharp.Core
 Suave
+Http.fs
+Hopac
+System.Runtime.Serialization.Json

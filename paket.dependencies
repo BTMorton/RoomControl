@@ -1,4 +1,7 @@
 source https://www.nuget.org/api/v2
 nuget FAKE
 nuget FSharp.Core
+nuget Hopac
+nuget Http.fs
 nuget Suave
+nuget System.Runtime.Serialization.Json
